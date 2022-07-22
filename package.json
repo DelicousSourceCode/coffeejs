@@ -1,0 +1,13 @@
+{
+  "name": "coffee.js",
+  "description": "Secure hash algorithm for JavaScript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://www.github.com/DelicousSourceCode/coffee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://www.github.com/DelicousSourceCode/coffee"
+  }
+}
